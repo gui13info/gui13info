@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-marques-9693ab18a/)](https://www.linkedin.com/in/guilherme-marques-9693ab18a/)
+
 <!--
 **gui13info/gui13info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
