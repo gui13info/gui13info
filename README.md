@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:house: Me chamo Guilherme Marques, sou um estudante que busca se aprimorar para ser um desenvolvedor front-end. :computer:
+:pt-br: Me chamo Guilherme Marques, sou um estudante que busca se aprimorar para ser um desenvolvedor front-end. :computer:
 
-:usa: My name is Guilherme Marques, i'm a studant looking to improve to be a front-end developer. :computer:
+My name is Guilherme Marques, i'm a studant looking to improve to be a front-end developer. :computer:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marques-0000ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-marques-9693ab18a/)](https://www.linkedin.com/in/guilherme-marques-9693ab18a/)
 
