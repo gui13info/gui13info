@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:br: Me chamo Guilherme Marques, sou um estudante que busca se aprimorar para ser um desenvolvedor front-end. :computer:
+:house: Me chamo Guilherme Marques, sou um estudante que busca se aprimorar para ser um desenvolvedor front-end. :computer:
 
 My name is Guilherme Marques, i'm a studant looking to improve to be a front-end developer. :computer:
 
