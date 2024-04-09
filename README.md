@@ -4,7 +4,7 @@
 
 My name is Guilherme Marques, i'm a studant looking to improve to be a front-end developer. :computer:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marques-0000ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-marques-matos/)]([https://www.linkedin.com/in/guilherme-marques-9693ab18a/](https://www.linkedin.com/in/guilherme-marques-matos/))
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Marques-0000ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-marques-matos/)](https://www.linkedin.com/in/guilherme-marques-matos/)
 
 <!--
 **gui13info/gui13info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
